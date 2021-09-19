@@ -3,6 +3,6 @@ Solutions of assignment problems of the course - Community Classroom complete Da
 Kunal Kushava's repository [**DSA-Bootcamp-Java**](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)\
 | S.No. | Topic | 
 |---|--------------|
-|02. | [Searching](/searching)|
-|03. | [Sorting](/sorting)|
+|01. | [Searching](/searching)|
+|02. | [Sorting](/sorting)|
 
