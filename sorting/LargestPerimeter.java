@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class LargestPerimeter {
+    //O(nlogn)
     public int largestPerimeter(int[] nums) {
         Arrays.sort(nums);
         int l = nums.length - 1;

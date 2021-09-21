@@ -26,7 +26,7 @@ public class ThirdMaximum {
                 max2 = i;
             }
 
-            else if (max2 > -1 && nums[i] < nums[max2] && (max3 == -1 || nums[i] > nums[max3])) {
+            else if ((max2 > -1) && (nums[i] < nums[max2]) && (max3 == -1 || nums[i] > nums[max3])) {
                 max3 = i;
             }
         }
