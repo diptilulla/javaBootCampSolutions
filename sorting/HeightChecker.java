@@ -1,4 +1,5 @@
 class HeightChecker {
+    // count sort approach
     public int heightChecker(int[] heights) {
         int count = 0;
         int[] temps = new int[101];

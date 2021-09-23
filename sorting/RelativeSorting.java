@@ -1,4 +1,5 @@
 class RelativeSorting {
+    // count sort approach
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int[] set = new int[1001];
         int i = 0, j = 0;
